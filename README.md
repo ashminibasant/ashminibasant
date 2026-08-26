@@ -2,7 +2,7 @@
 
 ### Enterprise Transformation | Operational Governance & GRC | AI Governance | Regulated Systems
 
-I work at the intersection of **business operations, governance, risk, compliance, and emerging technology** — translating complex regulatory and operational requirements into systems that organizations can actually implement, govern, scale, and defend.
+I work at the intersection of **business operations, governance, risk, compliance, and emerging technology**, translating complex regulatory and operational requirements into systems that organizations can actually implement, govern, scale, and defend.
 
 My background spans regulated financial services, enterprise operations, consulting, revenue transformation, compliance, and AI governance. I am especially interested in the point where **technical systems become organizational risk**: who owns the outcome, what controls exist, what evidence is retained, when escalation occurs, and what the organization can prove later.
 
