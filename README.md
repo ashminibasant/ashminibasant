@@ -63,25 +63,29 @@ I am not interested in governance for governance's sake. I like building the bri
 
 ## Proof of Work
 
+### [Professional Portfolio](portfolio/README.md)
+
+A practical proof-of-work portfolio across the four lanes I am targeting professionally:
+
+* [Marketing & Consumer Trust](portfolio/marketing-consumer-trust/README.md)
+* [Regulatory Response Operations](portfolio/regulatory-response-operations/README.md)
+* [Regulated Growth Strategy](portfolio/regulated-growth-strategy/README.md)
+* [Operational AI Governance](https://github.com/ashminibasant/operational-ai-governance)
+
 ### [Operational AI Governance](https://github.com/ashminibasant/operational-ai-governance)
 
-A practical governance framework focused on ownership, controls, evidence, human oversight, escalation, auditability, and defensible governance claims.
+A practical governance portfolio focused on ownership, evaluation, controls, evidence, human oversight, escalation, auditability, and defensible governance claims.
 
-Current framework areas include:
+Current materials include:
 
-* Ownership and accountability
-* Evidence and auditability
-* Escalation and human oversight
-* Governance claim boundaries
-
-## What I Am Building Next
-
-I am expanding this GitHub into a public proof-of-work portfolio across the areas where I do my best work:
-
-* **Marketing & Consumer Trust** — campaign review, claims and disclosures, launch governance, digital communications, partner marketing, and consumer-risk review
-* **Regulatory Response Operations** — intake, legal-to-technical translation, evidence requests, deadline tracking, escalation, metrics, and response readiness
-* **AI Product Risk** — evaluation rubrics, human-review models, failure-mode analysis, control and evidence registers, and fictional system assessments
-* **Regulated Growth Strategy** — customer journeys, partner strategy, product-to-market translation, growth diagnostics, and commercialization in regulated environments
+* ownership and accountability framework
+* evidence and auditability framework
+* escalation and human oversight framework
+* governance claim boundaries
+* AI evaluation rubric
+* human-review decision model
+* AI control and evidence register
+* fictional AI system assessment
 
 ## Career Context
 
